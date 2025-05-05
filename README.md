@@ -1,7 +1,3 @@
-Oto propozycja ładnego i użytecznego README dla Twojego projektu „To-Do List App” z użyciem emoji:
-
----
-
 # 📝 To-Do List App
 
 🎯 Prosty i intuicyjny menedżer zadań, który pomaga zorganizować Twój dzień i zwiększyć produktywność!  
