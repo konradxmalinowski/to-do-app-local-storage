@@ -1,61 +1,60 @@
 # 📝 To-Do List App
 
-🎯 Prosty i intuicyjny menedżer zadań, który pomaga zorganizować Twój dzień i zwiększyć produktywność!  
-Stworzony z miłością do JavaScriptu, CSS i HTML. 💻✨
+🎯 A simple and intuitive task manager that helps you organize your day and boost productivity!  
+Built with love for JavaScript, CSS, and HTML. 💻✨
 
 ---
 
-## 📚 Funkcjonalności
+## 📚 Features
 
-✔️ **Dodawanie zadań** – Szybko i łatwo dodawaj nowe zadania do listy.  
-✔️ **Oznaczanie ukończonych zadań** – Odznaczaj zadania, aby śledzić swoje postępy.  
-✔️ **Usuwanie zadań** – Porządkuj swoją listę, usuwając zbędne zadania.  
-✔️ **Responsywny design** – Aplikacja wygląda świetnie, zarówno na komputerze, jak i na urządzeniach mobilnych. 📱💻  
+✔️ **Add tasks** – Quickly and easily add new tasks to your list.  
+✔️ **Mark completed tasks** – Track your progress by marking tasks as done.  
+✔️ **Delete tasks** – Keep your list tidy by removing unnecessary tasks.  
+✔️ **Responsive design** – The app looks great on both desktop and mobile devices. 📱💻  
 
 ---
 
-## 🚀 Jak uruchomić projekt?
+## 🚀 How to Run the Project?
 
-1. Sklonuj repozytorium:  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/konradxmalinowski/to-do-list-app.git
    ```
-2. Przejdź do folderu projektu:  
+2. Navigate to the project folder:  
    ```bash
    cd to-do-list-app
    ```
-3. Otwórz plik `index.html` w przeglądarce. 🌐  
+3. Open the `index.html` file in your browser. 🌐  
 
 ---
 
-## 🛠 Technologie
+## 🛠 Technologies
 
-- **JavaScript** – Logika aplikacji i interaktywność.  
-- **CSS** – Stylizacja i estetyka. 🎨  
-- **HTML** – Struktura aplikacji.  
-
+- **JavaScript** – Application logic and interactivity.  
+- **CSS** – Styling and aesthetics. 🎨  
+- **HTML** – Application structure.  
 
 ---
 
-## 🤝 Wkład
+## 🤝 Contributions
 
-Chcesz pomóc w rozwoju tego projektu? Świetnie!  
-1. Sforkuj repozytorium.  
-2. Stwórz nową gałąź:  
+Want to help improve this project? Great!  
+1. Fork the repository.  
+2. Create a new branch:  
    ```bash
-   git checkout -b feature/nazwa-funkcji
+   git checkout -b feature/feature-name
    ```
-3. Wprowadź swoje zmiany i utwórz pull request.  
+3. Make your changes and create a pull request.  
 
 ---
 
-## 💬 Kontakt
+## 💬 Contact
 
-📧 Możesz się ze mną skontaktować przez GitHub: [@konradxmalinowski](https://github.com/konradxmalinowski)  
+📧 You can contact me via GitHub: [@konradxmalinowski](https://github.com/konradxmalinowski)  
 
 ---
 
-## 📄 Licencja
+## 📄 License
 
 ```
 MIT License
