@@ -95,7 +95,6 @@ main > h2 {
 
 button {
   padding: 10px;
-  height: 36px;
   background-color: var(--clr-button);
   color: var(--clr-primary);
   border: none;
