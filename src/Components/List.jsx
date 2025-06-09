@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import './Item.jsx';
 import Item from './Item.jsx';
 

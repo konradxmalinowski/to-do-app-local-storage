@@ -1,4 +1,5 @@
-/* eslint-disable react/prop-types */
+import deleteIcon from './assets/delete-icon.png';
+
 import { useEffect, useRef, useState } from 'react';
 import './App.css';
 
@@ -13,7 +14,7 @@ function Item({ value, id, removeProduct }) {
           removeProduct(id);
         }}
       >
-        <img src="../src/images/delete-icon.png" alt="close icon" ref={image} />
+        <img src={deleteIcon} alt="close icon" ref={image} />
       </button>
     </div>
   );
