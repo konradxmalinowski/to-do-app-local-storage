@@ -3,7 +3,7 @@
 **A simple and powerful task manager** built with React and powered by Vite to help you stay organized and productive!  
 Crafted with using **React**, **JavaScript**, **SCSS**, and **HTML**.
 
----
+<br>
 
 ## Features
 
@@ -14,7 +14,7 @@ Crafted with using **React**, **JavaScript**, **SCSS**, and **HTML**.
 - **Responsive Design** – Works perfectly on both desktop and mobile devices.
 - **Fast Loading** – Powered by Vite for lightning-fast development and builds.
 
----
+<br>
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ To run the app locally, follow these steps:
 
 5. Open your browser and navigate to the URL provided by Vite (usually `http://localhost:5173`) to view the app.
 
----
+<br>
 
 ## Technologies Used
 
@@ -56,26 +56,19 @@ To run the app locally, follow these steps:
 - **CSS** – Adds styling and enhances the design.
 - **HTML** – Provides the structure for the app.
 
----
+<br>
 
-## Contributing
 
-We welcome contributions to make this app even better!
+## Screenshots
+![image](https://github.com/user-attachments/assets/73c81530-fce1-4e99-a4af-345201703d91)
 
-1. **Fork** the repository.
-2. Create a new branch for your feature:
 
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
 
-3. Make your changes and push them to your fork.
-4. Submit a **pull request** and let us know about your awesome contribution!
+<br>
 
----
+
+
 
 ## Contact
 
-Have questions or suggestions? Feel free to reach out to me:
-
-GitHub: [@konradxmalinowski](https://github.com/konradxmalinowski)
+Have questions or suggestions? Feel free to reach out to me: [malinowski.konrad45@gmail.com](malinowski.konrad45@gmail.com)
