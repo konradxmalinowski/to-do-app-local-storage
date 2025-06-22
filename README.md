@@ -1,10 +1,5 @@
 # 📝 To-Do List App
 
-**A simple and powerful task manager** built with React and powered by Vite to help you stay organized and productive!  
-Crafted with using **React**, **JavaScript**, **SCSS**, and **HTML**.
-
-<br>
-
 ## Features
 
 - **Add Tasks** – Quickly and effortlessly add new tasks to your list.
